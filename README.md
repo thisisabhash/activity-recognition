@@ -1,7 +1,9 @@
 **Activity Phase Detection in Cholecystectomy Surgery Videos [Done as part of CS766 course at UW-Madison]**
+
 For more information and results, please check the project website - [Website](https://sites.google.com/wisc.edu/cs766-activity-phase-detection/references?authuser=1)
 
 This codebase is built upon the code present here - https://github.com/JayJayBinks1/DeepPhase
+
 So, I would like to acknowledge and credit the user above for the code.
 
 Instructions to run the code
